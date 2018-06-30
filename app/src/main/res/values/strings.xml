@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Science App by Kajeno Works</string>
+
+    <string name="question1">1.Which is a vegetable? </string>
+    <string name="question1_choice1">Cabbage</string>
+    <string name="question1_choice2">Watermelon</string>
+    <string name="question1_choice3">Leaf</string>
+
+    <string name="question2">2. What is the food factory of a plant [stem, leaf, root, leaf-top]</string>
+
+    <string name="question3">3. What organs help humans to breath</string>
+    <string name="question3_choice1">Lungs</string>
+    <string name="question3_choice2">Trachea</string>
+    <string name="question3_choice3">Nose</string>
+    <string name="question3_choice4">Bronchi</string>
+
+    <string name="question4">4. The three states of matter are liquid, gas and   </string>
+
+    <string name="question5">5. What is the process whereby plants make their own food</string>
+    <string name="question5_choice1">Reproduction</string>
+    <string name="question5_choice2">Photosynthesis</string>
+    <string name="question5_choice3">Osmosis</string>
+
+    <string name="question6">6. A gas needed by plants to produce food is [carbon monoxide, oxygen, hydrogen)</string>
+
+    <string name="question7">7. For photosynthesis to occur plants require the following. </string>
+    <string name="question7_choice1">Carbon Dioxide</string>
+    <string name="question7_choice2">Sunlight</string>
+    <string name="question7_choice3">Two Hydrogen atom</string>
+    <string name="question7_choice4">One oxygen atom</string>
+
+    <string name="question8">8. Which unit is used to measure how warm or cool the air is? [Grams, kilometres, degree celsius]</string>
+
+    <string name="question9">9. Which kind of energy is produced when an android developer beats a drum?</string>
+    <string name="question9_choice1">Audio</string>
+    <string name="question9_choice2">Sound</string>
+
+
+    <string name="question10">10. Earth is like what kind of shape? (circle, sphere)</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+
+</resources>
